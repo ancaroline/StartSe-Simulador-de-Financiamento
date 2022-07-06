@@ -8,4 +8,5 @@ comCarencia.addEventListener('change', function() {
     } else {
         listaSuspensa.setAttribute('hidden', 'hidden');
     }
-})
+});
+
